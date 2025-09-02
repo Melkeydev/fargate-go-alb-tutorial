@@ -1,0 +1,12 @@
+cdk/node_modules/
+cdk/cdk.out/
+cdk/cdk.context.json
+cdk/lib/*.js
+cdk/lib/*.d.ts
+cdk/bin/*.js
+cdk/bin/*.d.ts
+*.js
+!jest.config.js
+*.d.ts
+.DS_Store
+go.sum
